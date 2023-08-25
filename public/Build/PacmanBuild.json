@@ -1,0 +1,13 @@
+{
+"companyName": "CharanVendra",
+"productName": "Pacman",
+"dataUrl": "PacmanBuild.data.unityweb",
+"asmCodeUrl": "PacmanBuild.asm.code.unityweb",
+"asmMemoryUrl": "PacmanBuild.asm.memory.unityweb",
+"asmFrameworkUrl": "PacmanBuild.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
